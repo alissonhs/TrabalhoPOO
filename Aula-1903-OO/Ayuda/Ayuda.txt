@@ -1,0 +1,21 @@
+Basicamente, é um template com diversas funções que podem ser usadas pelo desenvolvedor. Com ele, é desnecessário gastar tempo para reproduzir a mesma função em diferentes projetos, auxiliando em um gerenciamento ágil de projetos. Em outras palavras, ele é uma estrutura base, uma plataforma de desenvolvimento, como uma espécie de arcabouço, que contém ferramentas, guias, sistemas e componentes que agilizem o processo de desenvolvimento de soluções, auxiliando os especialistas de TI em seus trabalhos.
+
+
+
+O que é um Framework?
+
+	Um Framework é um conjunto de bibliotecas com diversas funções que podem ser utilizadas por desenvolvedores, utilizando eles evita o desperdicio de tempo com desenvolvimentos simples de certas funções em diversos sistemas diferentes agilizando no desenvolvimento.
+
+O que é padrão de projeto?
+	Um padrão de projeto agiliza no desenvolvimento de um sistema, pois são soluções abstratas de alto nível. Esses padrões de projeto não são aplicados apenas em desenvolvimento de softwares, pois os mesmos podem ser utilizados em diversas áreas da vida, da engenharia e até na arquitetura.
+
+Quais as principais categorias de padrões de projetos?
+	Padrões Grasp: Ajudam a especificar o momento certo em que é atribuida uma responsabilidade de decisão, quando é relacionado ao comportamento ou elemento ao objeto.
+	
+	Padrões GoF: O objetivo desse padrão é solucionar problemas comuns de softwares que possuam envolvimento com Orientação a Objetos.
+
+		Os padrões GoF São separados em diversos, que são:
+			Padrões GoF de criação;
+			Padrões GoF estruturais;
+			Padrões GoF comportamentais 
+			
